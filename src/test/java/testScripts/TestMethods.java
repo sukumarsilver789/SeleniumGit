@@ -12,6 +12,9 @@ public class TestMethods {
 	public void launch_URL() {
 	    // Write code here that turns the phrase above into concrete actions
 	    System.out.println("URL Launched");
+	    System.out.println("NewChange1");
+	    System.out.println("NewChange2");
+	    System.out.println("NewChange3");
 	}
 
 	@When("login to application")
