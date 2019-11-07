@@ -18,6 +18,9 @@ public class TestMethods {
 	    
 	    //New Changes
 	    System.out.println("NewChange4");
+	    
+	    //develop Branch
+	    System.out.println("Develop Branch");
 	}
 
 	@When("login to application")
