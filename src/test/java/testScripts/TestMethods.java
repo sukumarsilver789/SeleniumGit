@@ -15,6 +15,9 @@ public class TestMethods {
 	    System.out.println("NewChange1");
 	    System.out.println("NewChange2");
 	    System.out.println("NewChange3");
+	    
+	    //New Changes
+	    System.out.println("NewChange4");
 	}
 
 	@When("login to application")
