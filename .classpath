@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.12/junit-4.12.jar" sourcepath="M2_REPO/junit/junit/4.12/junit-4.12-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" sourcepath="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/cucumber/cucumber-junit/4.8.0/cucumber-junit-4.8.0.jar" sourcepath="M2_REPO/io/cucumber/cucumber-junit/4.8.0/cucumber-junit-4.8.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar" sourcepath="M2_REPO/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/cucumber/cucumber-core/4.8.0/cucumber-core-4.8.0.jar" sourcepath="M2_REPO/io/cucumber/cucumber-core/4.8.0/cucumber-core-4.8.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/cucumber/gherkin/5.1.0/gherkin-5.1.0.jar" sourcepath="M2_REPO/io/cucumber/gherkin/5.1.0/gherkin-5.1.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/cucumber/tag-expressions/1.1.1/tag-expressions-1.1.1.jar" sourcepath="M2_REPO/io/cucumber/tag-expressions/1.1.1/tag-expressions-1.1.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/cucumber/cucumber-expressions/7.0.2/cucumber-expressions-7.0.2.jar" sourcepath="M2_REPO/io/cucumber/cucumber-expressions/7.0.2/cucumber-expressions-7.0.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/cucumber/datatable/1.1.14/datatable-1.1.14.jar" sourcepath="M2_REPO/io/cucumber/datatable/1.1.14/datatable-1.1.14-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/cucumber/datatable-dependencies/1.1.14/datatable-dependencies-1.1.14.jar" sourcepath="M2_REPO/io/cucumber/datatable-dependencies/1.1.14/datatable-dependencies-1.1.14-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/cucumber/cucumber-java/4.8.0/cucumber-java-4.8.0.jar" sourcepath="M2_REPO/io/cucumber/cucumber-java/4.8.0/cucumber-java-4.8.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/testng/testng/7.0.0/testng-7.0.0.jar" sourcepath="M2_REPO/org/testng/testng/7.0.0/testng-7.0.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/beust/jcommander/1.72/jcommander-1.72.jar" sourcepath="M2_REPO/com/beust/jcommander/1.72/jcommander-1.72-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/poi/poi-ooxml/4.1.1/poi-ooxml-4.1.1.jar" sourcepath="M2_REPO/org/apache/poi/poi-ooxml/4.1.1/poi-ooxml-4.1.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/poi/poi/4.1.1/poi-4.1.1.jar" sourcepath="M2_REPO/org/apache/poi/poi/4.1.1/poi-4.1.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.13/commons-codec-1.13.jar" sourcepath="M2_REPO/commons-codec/commons-codec/1.13/commons-codec-1.13-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" sourcepath="M2_REPO/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar" sourcepath="M2_REPO/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/poi/poi-ooxml-schemas/4.1.1/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar" sourcepath="M2_REPO/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-compress/1.19/commons-compress-1.19.jar" sourcepath="M2_REPO/org/apache/commons/commons-compress/1.19/commons-compress-1.19-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar" sourcepath="M2_REPO/com/github/virtuald/curvesapi/1.06/curvesapi-1.06-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sukumar.busipalli/Downloads/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sukumar.busipalli/Downloads/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sukumar.busipalli/Downloads/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sukumar.busipalli/Downloads/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sukumar.busipalli/Downloads/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sukumar.busipalli/Downloads/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sukumar.busipalli/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
